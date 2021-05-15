@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<string>1.0</string>
+<info>
+    <version>2.0</version>
+    <url>http://192.168.0.64:8080/mobilesafe.apk</url>
+    <description>检测到最新版本，请及时更新！</description>
+</info>
